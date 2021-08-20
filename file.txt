@@ -1,2 +1,1 @@
-my name is mahesh patil 
-welcome to first git folder
+some content
